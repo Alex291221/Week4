@@ -1,2 +1,4 @@
 .venv
 .env
+Profile
+Profile.lock
